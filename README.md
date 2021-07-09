@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai kalyan</h1>
 <h3 align="center">Android Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyan4812&label=Profile%20views&color=0e75b6&style=flat" alt="kalyan4812" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalyan4812" alt="kalyan4812" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/kalyan4812](https://github.com/kalyan4812)
 
 - 📫 How to reach me **saikalyan4812@gmail.com**
@@ -25,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyan4812&show_icons=true&locale=en" alt="kalyan4812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan4812&" alt="kalyan4812" /></p>
-
